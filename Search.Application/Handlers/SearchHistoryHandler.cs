@@ -1,7 +1,7 @@
 ﻿using MediatR;
-using SearchBarWebAPI.Search.Application.Interface;
-using SearchBarWebAPI.Search.Application.Model;
-using SearchBarWebAPI.Search.Application.Query;
+using SearchBarWebAPI.Search.Application.Queries;
+using SearchBarWebAPI.Search.Core.Interface;
+using SearchBarWebAPI.Search.Core.Model;
 
 namespace SearchBarWebAPI.Search.Application.Handlers
 {

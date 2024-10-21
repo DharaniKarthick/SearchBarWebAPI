@@ -1,4 +1,4 @@
-﻿namespace SearchBarWebAPI.Search.Application.Model
+﻿namespace SearchBarWebAPI.Search.Core.Model
 {
     public class User
     {

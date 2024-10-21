@@ -1,5 +1,5 @@
-﻿using SearchBarWebAPI.Search.Application.Model;
-using SearchBarWebAPI.Search.Application.Utility;
+﻿using SearchBarWebAPI.Search.Core.Model;
+using SearchBarWebAPI.Search.Core.Utility;
 using Serilog;
 using System.Diagnostics;
 using System.Net;

@@ -1,4 +1,4 @@
-﻿namespace SearchBarWebAPI.Search.Application.Utility
+﻿namespace SearchBarWebAPI.Search.Core.Utility
 {
     public class NotFoundException : Exception
     {

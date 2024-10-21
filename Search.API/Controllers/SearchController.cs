@@ -1,8 +1,9 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using SearchBarWebAPI.Search.Application.Query;
-using SearchBarWebAPI.Search.Application.Utility;
+using SearchBarWebAPI.Search.Application.Queries;
+using SearchBarWebAPI.Search.Core.Utility;
+using SearchBarWebAPI.Search.Core.Utility;
 using Serilog;
 using System.IdentityModel.Tokens.Jwt;
 

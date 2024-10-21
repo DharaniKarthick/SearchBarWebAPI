@@ -7,9 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Database\**" />
+    <Compile Remove="Documentation\**" />
     <Compile Remove="Logs\**" />
+    <Content Remove="Database\**" />
+    <Content Remove="Documentation\**" />
     <Content Remove="Logs\**" />
+    <EmbeddedResource Remove="Database\**" />
+    <EmbeddedResource Remove="Documentation\**" />
     <EmbeddedResource Remove="Logs\**" />
+    <None Remove="Database\**" />
+    <None Remove="Documentation\**" />
     <None Remove="Logs\**" />
   </ItemGroup>
 

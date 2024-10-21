@@ -1,7 +1,7 @@
 ﻿using MediatR;
-using SearchBarWebAPI.Search.Application.Model;
+using SearchBarWebAPI.Search.Core.Model;
 
-namespace SearchBarWebAPI.Search.Application.Query
+namespace SearchBarWebAPI.Search.Application.Queries
 {
     public class SearchBookQuery : IRequest<List<Book>>
     {

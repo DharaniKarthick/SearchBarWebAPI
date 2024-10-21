@@ -1,9 +1,9 @@
 ﻿using MediatR;
 using Microsoft.IdentityModel.Tokens;
 using SearchBarWebAPI.Search.Application.Commands;
-using SearchBarWebAPI.Search.Application.Interface;
-using SearchBarWebAPI.Search.Application.Model;
-using SearchBarWebAPI.Search.Application.Utility;
+using SearchBarWebAPI.Search.Core.Interface;
+using SearchBarWebAPI.Search.Core.Model;
+using SearchBarWebAPI.Search.Core.Utility;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;

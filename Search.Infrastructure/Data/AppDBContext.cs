@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SearchBarWebAPI.Search.Application.Model;
+using SearchBarWebAPI.Search.Core.Model;
 
 namespace SearchBarWebAPI.Search.Infrastructure.Data
 {

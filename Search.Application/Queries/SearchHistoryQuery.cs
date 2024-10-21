@@ -1,8 +1,8 @@
 ﻿using MediatR;
-using SearchBarWebAPI.Search.Application.Model;
+using SearchBarWebAPI.Search.Core.Model;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
-namespace SearchBarWebAPI.Search.Application.Query
+namespace SearchBarWebAPI.Search.Application.Queries
 {
     public class SearchHistoryQuery : IRequest<List<SearchHistory>>
     {

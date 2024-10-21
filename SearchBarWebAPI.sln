@@ -5,9 +5,7 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchBarWebAPI", "SearchBarWebAPI.csproj", "{17C654AF-5822-4E60-B999-10473C2B2C26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{F55F399B-9707-40AF-B95D-74445ABBA79C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search.Test", "..\Search.Test\Search.Test.csproj", "{A07F3325-18EB-4511-8D4F-7110A72B04E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search.Test", "..\Search.Test\Search.Test.csproj", "{A07F3325-18EB-4511-8D4F-7110A72B04E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{17C654AF-5822-4E60-B999-10473C2B2C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17C654AF-5822-4E60-B999-10473C2B2C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17C654AF-5822-4E60-B999-10473C2B2C26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F55F399B-9707-40AF-B95D-74445ABBA79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F55F399B-9707-40AF-B95D-74445ABBA79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F55F399B-9707-40AF-B95D-74445ABBA79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F55F399B-9707-40AF-B95D-74445ABBA79C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A07F3325-18EB-4511-8D4F-7110A72B04E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A07F3325-18EB-4511-8D4F-7110A72B04E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A07F3325-18EB-4511-8D4F-7110A72B04E3}.Release|Any CPU.ActiveCfg = Release|Any CPU

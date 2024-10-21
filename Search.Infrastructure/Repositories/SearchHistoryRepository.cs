@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SearchBarWebAPI.Search.Application.Interface;
-using SearchBarWebAPI.Search.Application.Model;
+using SearchBarWebAPI.Search.Core.Interface;
+using SearchBarWebAPI.Search.Core.Model;
 using SearchBarWebAPI.Search.Infrastructure.Data;
 
 namespace SearchBarWebAPI.Search.Infrastructure.Repositories
